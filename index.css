@@ -1,0 +1,51 @@
+.body{
+	background-color: orange;
+}
+>.body{
+    background-color:blue;
+}
+
+
+
+
+
+
+
+.btn-primary{
+    color:gray;
+    border-color: black;
+    width: 16rem;
+}
+.texttop{
+    background-color: black;
+    color: white;
+    right: 20px;
+    top:1px;
+    position: absolute;
+}
+.ordertext-right{
+     right: 50px;
+    top:1px;
+    position: absolute;
+
+
+}
+.sizes{
+    background-color: lightgray;
+    color: black;
+    border-radius: 50%;
+    height: 40px;
+    width:40px;
+    padding-top:10px; 
+    margin-right:0px;
+    display: ;
+    justify-content: space-between;
+}
+.secondline{
+    margin-left: 1px;
+}
+.card{
+     
+}
+    
+}

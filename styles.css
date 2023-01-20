@@ -1,0 +1,29 @@
+.body{
+	background-color: ghostwhite;
+	font-size: 30px;
+	margin: 30px;
+}
+.col-md-3{
+	border:0.1px solid black;
+	text-align: center;
+	background-color: lavender;
+}
+.col-md-6{
+	border:0.1px solid black;
+	text-align: center;
+	background-color: lavender;
+
+}
+.col-md-12{
+		border:0.1px solid black;
+	text-align: right;
+	background-color: gray;
+
+
+}
+.hell0 {
+		border:0.1px solid black;
+	text-align: right;
+	background-color: orange;
+
+}
